@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "370824569234",
+    "project_id": "bats-explorer",
+    "storage_bucket": "bats-explorer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370824569234:android:7242274794611f1928614b",
+        "android_client_info": {
+          "package_name": "eco.beewise.batsexplorer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370824569234-j7b567ov1ihqdr6h8ram5bm15gaflf2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ98FNRfGJjzZJGaP8eU8LciBOwnhKmYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370824569234-j7b567ov1ihqdr6h8ram5bm15gaflf2p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "370824569234-qabtkcut55hg7m17vtqagb2vii3v0597.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "eco.beewise.batsexplorer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
